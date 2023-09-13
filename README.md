@@ -91,6 +91,8 @@ cv2.destroyAllWindows()
 
 
 ### Histogram Equalization of Grayscale Image
+![WhatsApp Image 2023-09-13 at 16 05 34](https://github.com/Jeevithaelumalai/HISTOGRAM/assets/118708245/87de5cd0-7c8c-4af6-ba57-d6366078ebe6)
+
 
 ![WhatsApp Image 2023-09-13 at 16 05 09](https://github.com/Jeevithaelumalai/HISTOGRAM/assets/118708245/8b98da19-8ec5-4312-b03d-15b17e0eaca2)
 
